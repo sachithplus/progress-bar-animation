@@ -12,3 +12,5 @@ It visually displays increasing progress values with smooth transitions.
    ```bash
    git clone https://github.com/sachithplus/progress-bar-animation.git
 2. Open index.html in your browser.
+
+© 2025 Sachith Waidyasekara
